@@ -1,1 +1,14 @@
 /*  your css code here. If applicable */
+.container{
+	display : flex;
+	   border-radius : 40px;
+     background-color:#d3d3d3;
+	justify-content : space-around;
+	padding : 50px;
+	width : 300px;
+	border : 3px solid black
+}
+.child{
+     padding : 45px;
+	border-radius:50px;
+}
